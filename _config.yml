@@ -223,9 +223,9 @@ kramdown:
 # include: ["_pages"]
 include:
   - _pages/about.md
-  - _pages/blog.md
-  - _pages/publications.md
-  - _pages/repositories.md
+  # - _pages/blog.md
+  # - _pages/publications.md
+  # - _pages/repositories.md
 exclude:
   - bin/
   - CONTRIBUTING.md
