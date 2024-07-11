@@ -1,16 +1,6 @@
 ---
 ---
 
-@inproceedings{huang2023discovering,
-  title={Discovering sounding objects by audio queries for audio visual segmentation},
-  author={Huang, Shaofei and Li, Han and Wang, Yuqing and Zhu, Hongji and Dai, Jiao and Han, Jizhong and Rong, Wenge and Liu, Si},
-  booktitle={IJCAI},
-  year={2023},
-  selected={true},
-  abstract={Audio visual segmentation (AVS) aims to segment the sounding objects for each frame of a given video. To distinguish the sounding objects from silent ones, both audio-visual semantic correspondence and temporal interaction are required. The previous method applies multi-frame cross-modal attention to conduct pixel-level interactions between audio features and visual features of multiple frames simultaneously, which is both redundant and implicit. In this paper, we propose an Audio-Queried Transformer architecture, AQFormer, where we define a set of object queries conditioned on audio information and associate each of them to particular sounding objects. Explicit object-level semantic correspondence between audio and visual modalities is established by gathering object information from visual features with predefined audio queries. Besides, an Audio-Bridged Temporal Interaction module is proposed to exchange sounding object-relevant information among multiple frames with the bridge of audio features. Extensive experiments are conducted on two AVS benchmarks to show that our method achieves state-of-the-art performances.},
-  arxiv={2309.09501},
-}
-
 @article{li2024enhancing,
   title={Enhancing 3D Lane Detection and Topology Reasoning with 2D Lane Priors},
   author={Li, Han and Huang, Zehao and Wang, Zitian and Rong, Wenge and Wang, Naiyan and Liu, Si},
@@ -20,5 +10,16 @@
   abstract={3D lane detection and topology reasoning are essential tasks in autonomous driving scenarios, requiring not only detecting the accurate 3D coordinates on lane lines, but also reasoning the relationship between lanes and traffic elements. Current vision-based methods, whether explicitly constructing BEV features or not, all establish the lane anchors/queries in 3D space while ignoring the 2D lane priors. In this study, we propose Topo2D, a novel framework based on Transformer, leveraging 2D lane instances to initialize 3D queries and 3D positional embeddings. Furthermore, we explicitly incorporate 2D lane features into the recognition of topology relationships among lane centerlines and between lane centerlines and traffic elements. Topo2D achieves 44.5% OLS on multi-view topology reasoning benchmark OpenLane-V2 and 62.6% F-Socre on single-view 3D lane detection benchmark OpenLane, exceeding the performance of existing state-of-the-art methods.},
   arxiv={2406.03105},
   code={https://github.com/homothetic/Topo2D},
-  
+  preview={Topo2D.png},
+}
+
+@article{huang2023discovering,
+  title={Discovering sounding objects by audio queries for audio visual segmentation},
+  author={Huang, Shaofei and Li, Han and Wang, Yuqing and Zhu, Hongji and Dai, Jiao and Han, Jizhong and Rong, Wenge and Liu, Si},
+  journal={IJCAI},
+  year={2023},
+  selected={true},
+  abstract={Audio visual segmentation (AVS) aims to segment the sounding objects for each frame of a given video. To distinguish the sounding objects from silent ones, both audio-visual semantic correspondence and temporal interaction are required. The previous method applies multi-frame cross-modal attention to conduct pixel-level interactions between audio features and visual features of multiple frames simultaneously, which is both redundant and implicit. In this paper, we propose an Audio-Queried Transformer architecture, AQFormer, where we define a set of object queries conditioned on audio information and associate each of them to particular sounding objects. Explicit object-level semantic correspondence between audio and visual modalities is established by gathering object information from visual features with predefined audio queries. Besides, an Audio-Bridged Temporal Interaction module is proposed to exchange sounding object-relevant information among multiple frames with the bridge of audio features. Extensive experiments are conducted on two AVS benchmarks to show that our method achieves state-of-the-art performances, especially 7.1% M_J and 7.6% M_F gains on the MS3 setting.},
+  arxiv={2309.09501},
+  preview={AQFormer.png},
 }
