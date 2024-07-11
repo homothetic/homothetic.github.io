@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-08-31
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[RandSORT](https://www.gigavision.cn/track/track?nav=Tracking&type=nav&t=1720670797837) won second place in the ACM MM 2022 GigaMOT Challenge.
