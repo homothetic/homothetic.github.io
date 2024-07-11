@@ -16,6 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am currently a PhD student at the School of Artificial Intelligence, Beihang University, under the supervision of [Prof. Si Liu](https://colalab.net/).
+I obtained my BSc and MSc from Beihang University in 2022 and 2024, respectively.
 
 My research focuses on vision and scene understanding. 
 
