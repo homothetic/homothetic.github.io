@@ -15,10 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a PhD student at the School of Artificial Intelligence, Beihang University, under the supervision of [Prof. Si Liu](https://colalab.net/).
+I am currently a PhD student at the School of Artificial Intelligence, Beihang University, under the supervision of [Prof. Si Liu](https://colalab.net/people). I obtained my BSc and MSc degrees from Beihang University in 2022 and 2024, respectively.
 
-I obtained my BSc and MSc from Beihang University in 2022 and 2024, respectively.
+I have interned at companies including [Nio](https://www.nio.cn/), [Alibaba](https://www.alibaba.com/), [TuSimple](https://www.tusimple.com/), and [Meituan](https://www.meituan.com/).
 
-My research focuses on vision and scene understanding. 
+My current research focuses on vision and scene understanding, specifically in areas such as 3D scene analysis and video analysis.
 
-Feel free to contact me via email.
+Please feel free to reach out to me via email.
