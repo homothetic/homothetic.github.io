@@ -21,4 +21,4 @@ I have interned at companies including [Nio](https://www.nio.cn/), [Alibaba](htt
 
 My current research focuses on vision and scene understanding, specifically in areas such as 3D scene analysis and video analysis.
 
-[[email](https://mailhide.io/e/lZoCH2bN)] / [[github](https://github.com/homothetic)] / [[google scholar](https://scholar.google.com/citations?user=o31I6xUAAAAJ&hl=en)]
+[Email](https://mailhide.io/e/lZoCH2bN) / [Github](https://github.com/homothetic) / [Google Scholar](https://scholar.google.com/citations?user=o31I6xUAAAAJ&hl=en)
