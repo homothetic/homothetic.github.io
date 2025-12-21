@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am currently a PhD student at the School of Artificial Intelligence, Beihang University, under the supervision of [Prof. Si Liu](https://colalab.net/people). I obtained my BSc degree from the School of Computer Science and Engineering, Beihang University in 2022.
+I am currently a PhD student at the School of Artificial Intelligence, Beihang University, under the supervision of [Prof. Si Liu](https://iai.buaa.edu.cn/info/1013/1096.htm). I obtained my BSc degree from the School of Computer Science and Engineering, Beihang University in 2022.
 
 I have interned at companies including [Nio](https://www.nio.cn/), [Alibaba](https://www.alibaba.com/), [TuSimple](https://www.iamcreate.ai/), [Meituan](https://www.meituan.com/), and [Xiaomi EV](https://www.xiaomiev.com/).
 
