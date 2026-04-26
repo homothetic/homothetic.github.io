@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[RATopo]() is accepted by ACM MM 2025.
+[RATopo](https://arxiv.org/abs/2508.15272) is accepted by ACM MM 2025.
