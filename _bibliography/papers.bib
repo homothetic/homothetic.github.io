@@ -1,6 +1,18 @@
 ---
 ---
 
+@article{Geo3DPruner,
+  title={Geometry-Guided 3D Visual Token Pruning for Video-Language Models},
+  author={Li, Han and Huang, Zehao and Fu, Jiahui and Wang, Naiyan and Liu, Si},
+  journal={CVPR},
+  year={2026},
+  selected={true},
+  abstract={Multimodal large language models have demonstrated remarkable capabilities in 2D vision, motivating their extension to 3D scene understanding. Recent studies represent 3D scenes as 3D spatial videos composed of image sequences with depth and camera pose information, enabling pre-trained video-language models to perform 3D reasoning tasks. However, the large number of visual tokens in spatial videos remains a major bottleneck for efficient inference and context management. Existing pruning methods overlook the view consistency of spatial videos and the spatial diversity of the remaining tokens, which prevents them from effectively removing inter-frame redundancy and preserving scene completeness. In this paper, we propose Geo3DPruner, a Geometry-Guided 3D Visual Token Pruning framework. Geo3DPruner first models cross-frame relevance through geometry-aware global attention, and then performs a two-stage pruning process. The intra-voxel stage selects representative multi-view features within each voxel, while the inter-voxel stage preserves spatial diversity by selecting a globally distributed subset of voxels. Extensive experiments on multiple 3D scene understanding benchmarks demonstrate that Geo3DPruner retains over 90% of the original performance while pruning 90% of visual tokens, significantly outperforming existing text-guided and vision-guided pruning methods.},
+  arxiv={2604.18260},
+  code={https://github.com/homothetic/Geo3DPruner},
+  preview={Geo3DPruner.png},
+}
+
 @article{RATopo,
   title={RATopo: Improving Lane Topology Reasoning via Redundancy Assignment},
   author={Li, Han and Huang, Shaofei and Xu, Longfei and Gao, Yulu and Mu, Beipeng and Liu, Si},
